@@ -2,6 +2,7 @@
 <h3 align="center">Informatics Engineering Student</h3>
 <p>
 <div class='container' align="center">
+<hr class="rounded">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragaia&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="miragaia" /></p>
 </div>
 
