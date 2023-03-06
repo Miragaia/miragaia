@@ -8,6 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miragaia&layout=compact&hide_border=true&title_color=8B0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+
  
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
